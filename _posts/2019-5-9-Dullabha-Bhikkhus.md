@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Dullabha Bhikkhus
+title: Dullabha Bhikkhu
 ---
+
+One month as a Dullabha Bhikkhu  
+
 
 On 18th March, with my dad, we left from Yangon to Hpa-An. Then Kawkareik to Ta Gone Taing village. 
 
