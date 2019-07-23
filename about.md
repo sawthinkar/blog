@@ -12,4 +12,4 @@ A place to include any other types of information that I'd like to include about
 
 ### Contact me
 
-[myfullname@domain.com](mailto:email@domain.com)
+[myfullname@domain.com](mailto:sawthinkarnayhtoo@gmail.com)
