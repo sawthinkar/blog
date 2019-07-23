@@ -3,7 +3,7 @@ layout: post
 title: Reimagining Talent Development in Myanmar 
 ---
 
-https://www.eventbrite.com/e/re-imagining-talent-development-in-myanmar-registration-65013105950 
+(Reimagining Talent Development in Myanmar by YOMA)[https://www.eventbrite.com/e/re-imagining-talent-development-in-myanmar-registration-65013105950]
 
 9AM - 4PM 
 Activities 
