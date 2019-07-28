@@ -3,10 +3,10 @@ layout: post
 title: Inspiration to write this blog ✍️
 ---
 
-13:57 Yangon  
-The third post contains a list of pretty good blogs
+*[13:57 Dec 29, 2018] Yangon*  
+The third post contains a list of pretty good blogs  
 
-Edited 19:40 Jan 22, 2019 
+*[Edited 19:40 Jan 22, 2019]*  
 
 * Aaron Swartz, The Internet's Own Boy <http://www.aaronsw.com/weblog>
 * [Joseph "Joe" Leslie Armstrong][3], the creator of [Erlang programming language][4] 

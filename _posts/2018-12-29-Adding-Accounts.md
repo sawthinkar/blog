@@ -3,10 +3,10 @@ layout: post
 title: Adding social account icons in the footer 🚿
 ---
 
-08:41 Yangon  
+*[08:41 Dec 29, 2018] Yangon*  
 Welcome to my second post!  
-
 Today, I will be adding more social icons in the footer. 
+
 ### Social icons 
 * Get the sites' logos in their press kit. 
   * Use this [converter](https://image.online-convert.com/convert-to-svg) or [this](https://convertio.co/png-svg/) or [this](https://www.pngtosvg.com/)(need a facebook account though) to convert it to SVG. 

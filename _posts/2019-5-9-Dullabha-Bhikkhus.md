@@ -3,7 +3,8 @@ layout: post
 title: Dullabha Bhikkhu
 ---
 
-One month as a Dullabha Bhikkhu  
+*[May 9, 2019] Yangon*  
+One month as a Dullabha Bhikkhu 
 
 
 On 18th March, with my dad, we left from Yangon to Hpa-An. Then Kawkareik to Ta Gone Taing village. 
