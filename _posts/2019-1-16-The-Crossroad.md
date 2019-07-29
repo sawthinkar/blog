@@ -2,8 +2,8 @@
 layout: post
 title: The Crossroad 🚏
 ---
-
-17:36 Yangon  
+ 
+*[17:36 Jan 16, 2019] Yangon*  
 The fourth post, dumping stuff from my personal note  
 Growing Skepticism
 
