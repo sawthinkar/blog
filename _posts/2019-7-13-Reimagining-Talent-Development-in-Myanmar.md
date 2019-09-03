@@ -26,5 +26,32 @@ Everytime, when I go to these events and hackathons, I am quite cruious to see a
 
 Anyway, I get to go to work. Will continue writing later. (July 25, 7:51)
 
+9:36 Aug 1 
+Tika 
+• Learned about leardership with Ko Sai at Hawaii. 
+• Connecting the dots 
+• Ko Htet Kaung Kyaw (Thitsar) & Ma Ei Ei (Ma Thinn Thinn's friend) from YOMA 
+• East-West center 
+
+• Why study the futures?  
+    • Changes, risks and opportunities 
+    • Pathways for better planning and strategy 
+    • Agility, flexibility, adaptability 
+
+Polak Game 
+
+Strategic Foresight  
+DHL example  
+As in a logistic situation
+Aviation industry 
+Y2k example 
+9/11 happened 
+Think of the worst 
+Prepare for the best 
+Risk management company 
+Schroders 
+Non work related program 
+Book The Art of Long View (Shell)
+
 In the evening.  
 Interns from Lithan 
