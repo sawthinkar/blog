@@ -7,6 +7,7 @@ title: Inspiration to write this blog ✍️
 The third post contains a list of pretty good blogs  
 
 *[Edited 19:40 Jan 22, 2019]*  
+*[Edited 12:30 Sep 13, 2019]*
 
 * Aaron Swartz, The Internet's Own Boy <http://www.aaronsw.com/weblog>
 * [Joseph "Joe" Leslie Armstrong][3], the creator of [Erlang programming language][4] 
@@ -46,7 +47,7 @@ I don't remember exactly where I read this from. Maybe, Twitter. They say, there
 
 So what happened now? Everyone seems gradually sucked into the platforms like Facebook. 🤷🏽‍♂️
 
-This is also one of the main reasons I ended using Facebook  and its other products. I was frustrated when I couldn't deactivate my account instantly and realized I barely own all my info posted on Facebook. Another reason is to [minimize dopamine hits][10] made from notification, likes, shares and instant chats. Starting from the second week of January 2019, I have also been trying to use the [grayscaled screen][9] on my phone more often. 
+This is also one of the main reasons I ended using Facebook  and its other products. (I reactivated my Facebook account on August 3rd, 2019, which had been deactivated back in June 2018, to get in touch with friends again. So for me Facebook is more like a contact book.) I was frustrated when I couldn't deactivate my account instantly and realized I barely own all my info posted on Facebook. Another reason is to [minimize dopamine hits][10] made from notification, likes, shares and instant chats. Starting from the second week of January 2019, I have also been trying to use the [grayscaled screen][9] on my phone more often. 
 
 Here are the some useful setting options. 
 ![alt text](https://s3-ap-southeast-1.amazonaws.com/cdn.sawthinkar/+smartinvertcolorfilers.png "Color Filters, Reduce White Point, Smart Invert ")
