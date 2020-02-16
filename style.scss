@@ -31,12 +31,9 @@ body {
 .dark {
   color: white; 
   background: black;
-  h1 {
+  h1, h2, h3, h4 {
     color: lightgray;
   } 
-  h3 {
-    color: lightgray;
-  }
 }
 
 .container {
