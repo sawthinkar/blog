@@ -21,6 +21,22 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+
+  // Night Mode 
+  transition: background 1s ease-in, color 1s ease-in;
+}
+
+// Night Mode
+// https://stackoverflow.com/questions/52880620/implementing-a-dark-theme-in-jekyll 
+.dark {
+  color: white; 
+  background: black;
+  h1 {
+    color: lightgray;
+  } 
+  h3 {
+    color: lightgray;
+  }
 }
 
 .container {
