@@ -5,7 +5,8 @@ title: The Crossroad 🚏
  
 *[17:36 Jan 16, 2019] Yangon*  
 The fourth post, dumping stuff from my personal note  
-Growing Skepticism
+
+**Growing Skepticism + Dilemma**
 
 Today, I met a CTO of a local startup. Two days ago I met their CEO.  
 

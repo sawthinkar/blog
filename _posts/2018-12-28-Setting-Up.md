@@ -5,6 +5,7 @@ title: Setting up the blog 🎉
 
 *[Dec 28, 2018] Yangon*   
 Welcome to my very first post!  
+
 So what did I just do? ကျနော်ဘာလုပ်မိလိုက်ပါလိမ့်။
 
 Here is a simple instruction on how to create a blog like this. (Just in case if I forget how I built this. lol.) 
