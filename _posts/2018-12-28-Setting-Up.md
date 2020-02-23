@@ -62,4 +62,4 @@ note: make sure you don't have any folder with the name **something** under form
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
 Just a photo taken at Yathae Pyan Cave, Hpa-An, Karen State of Myanmar:  
-![alt text](https://s3-ap-southeast-1.amazonaws.com/cdn.sawthinkar/YathaePyanCave.JPG "Yathae Pyan Cave")
+![alt text](https://s3-ap-southeast-1.amazonaws.com/cdn.sawthinkar/YathaePyanCave.jpg "Yathae Pyan Cave")
