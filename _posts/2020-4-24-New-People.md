@@ -7,6 +7,6 @@ title: New People
 
 ## New People  
 
-This post about a product my friend recently launched, named [New People](htpps://newpeople.io). 
+This post about a product my friend recently launched, named [New People](https://newpeople.io). 
 
 What it basically does is match you for a video chat with people who have the same interests as yours. 
