@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+အ်ှဆံင်းလာဆာ်ကိုဝ်ဟှာဍေ
 
 ### More Information
 
