@@ -1,6 +1,6 @@
 ---
 layout: post
-title: အမှတ်မရှိ၊ လမ်းမရှိ၊ ကီလီဗောတံတား 
+title: အွန်လိုင်းမဲဆွယ်လှုပ်ရှားမှု (Online Campaigning)
 ---
 
 *[17:55 September 12, 2020] Hpa-An*  
@@ -27,3 +27,5 @@ Page 24, Chapter 3, Section 3.4 (e)
 (e) Refrain from engaging in online campaigning outside the legally authorized period for the election campaign; and  
 
 REPUBLIC OF THE UNION OF MYANMAR, CODE OF CONDUCT FOR POLITICAL PARTIES AND CANDIDATES 2015, c.3. Available at: https://www.uec.gov.mm/show_data_content.php?name=2020_CoC%20book.pdf&type=page_multiple_photo&code=109&sno=8285&token=a4acedcfb981cdb5179f20ac531539dcb16a2c05e81eff31d44ffc302d83ee1f8d9c765b7d2f6dbe0e8b6bfe76b415c4eb9eec6ec8e5e8a45364e6234f3a0282 (Accessed: 12 September 2020).  
+
+Facebook post from Aee Koe: https://www.facebook.com/aeekoe14/posts/117883130050145  
