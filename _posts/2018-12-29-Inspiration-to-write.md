@@ -7,7 +7,8 @@ title: Inspiration to write this blog ✍️
 The third post contains a list of pretty good blogs  
 
 *[Edited 19:40 Jan 22, 2019]*  
-*[Edited 12:30 Sep 13, 2019]*
+*[Edited 12:30 Sep 13, 2019]*  
+*[Edited 17:51 Sep 26, 2020]*  
 
 * Aaron Swartz, The Internet's Own Boy <http://www.aaronsw.com/weblog>
 * [Joseph "Joe" Leslie Armstrong][3], the creator of [Erlang programming language][4] 
@@ -16,6 +17,7 @@ The third post contains a list of pretty good blogs
 * Nicky Case <https://blog.ncase.me/>
   * Amazing games
 * Jane Manchun Wong <https://wongmjane.com/>
+  * The hacker 
 * The YC people 
   * Paul Graham <http://paulgraham.com/> 
   * Jessica Livingston <http://foundersatwork.posthaven.com/> 
@@ -24,7 +26,7 @@ The third post contains a list of pretty good blogs
   * Tinnei Pang <https://www.tinneipang.com/> 
     * Epic UI/UX and design.
   * Catherine <https://medium.com/@cathrocko> 
-    * First met at the Bay. Recommended me MakeSchool. My fav was about her family root identity post, but no longer there anymore. 
+    * First met at the Bay. Recommended me MakeSchool. My fav was about her family root identity post, but is no longer there anymore. 
 * Seniors 
   * Arkar Min Aung <https://medium.com/@ark_aung> 
     * I first knew him from one of DRVR promo videos. Little Things and 0.999999999c are my favorites. 
@@ -33,11 +35,13 @@ The third post contains a list of pretty good blogs
     * <http://www.saturngod.net/>
     * His blogs are old, but gold. I just found it out, going to read them all. Both his blogging method and verbal tone are frank, learned that one of his iOS dev tutorials on YouTube. 
   * Yan Naing <http://yansnote.com/> 
-    * My girlfriend first shared me [one of the posts](http://yansnote.com/karen-new-year-event/). 
+    * My ex-girlfriend first shared me [one of the posts](http://yansnote.com/karen-new-year-event/). 
   * Arkar Aung <http://arkaraung.me/> 
     * From Twitter
   * Thet Khine <http://thetkhine.me/>
-    * Gandalf
+    * Gandalf 
+  * Nyi Lynn Seck <https://nyilynnseck.blogspot.com/>
+    * Ko Nyi, first introduced by Ma Hla 
 
 ## History of blogging 
 I somehow came across this [YouTube video][5] from ColdFusion and found out the very first blog on the internet, [Justin's Home Page][6].
@@ -47,7 +51,7 @@ I don't remember exactly where I read this from. Maybe, Twitter. They say, there
 
 So what happened now? Everyone seems gradually sucked into the platforms like Facebook. 🤷🏽‍♂️
 
-This is also one of the main reasons I ended using Facebook  and its other products. (I reactivated my Facebook account on August 3rd, 2019, which had been deactivated back in June 2018, to get in touch with friends again. So for me Facebook is more like a contact book.) I was frustrated when I couldn't deactivate my account instantly and realized I barely own all my info posted on Facebook. Another reason is to [minimize dopamine hits][10] made from notification, likes, shares and instant chats. Starting from the second week of January 2019, I have also been trying to use the [grayscaled screen][9] on my phone more often. 
+This is also one of the main reasons I ended using Facebook and its other products. (I reactivated my Facebook account on August 3rd, 2019, which had been deactivated back in June 2018, to get in touch with friends again. So for me Facebook is more like a contact book.) (I just decided to be back and fully active on Facebook and Instagram on September 20, 2020 after a friend shared me [Don't quit Facebook. Change laws.](https://www.nytimes.com/2020/09/18/technology/quit-facebook-campaign.html)). I was frustrated when I couldn't deactivate my account instantly and realized I barely own all my info posted on Facebook. Another reason is to [minimize dopamine hits][10] made from notification, likes, shares and instant chats. Starting from the second week of January 2019, I have also been trying to use the [grayscaled screen][9] on my phone more often. 
 
 Here are the some useful setting options. 
 ![alt text](https://s3-ap-southeast-1.amazonaws.com/cdn.sawthinkar/+smartinvertcolorfilers.png "Color Filters, Reduce White Point, Smart Invert ")
