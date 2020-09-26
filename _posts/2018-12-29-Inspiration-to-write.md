@@ -33,15 +33,22 @@ The third post contains a list of pretty good blogs
   * SaturnGod 
     * <http://blog.saturngod.net/> 
     * <http://www.saturngod.net/>
-    * His blogs are old, but gold. I just found it out, going to read them all. Both his blogging method and verbal tone are frank, learned that one of his iOS dev tutorials on YouTube. 
+    * His blogs are old, but gold. I just found it out, going to read them all. Both his blogging method and verbal tone are frank, noticed that while watching one of his iOS dev tutorials on YouTube. 
   * Yan Naing <http://yansnote.com/> 
     * My ex-girlfriend first shared me [one of the posts](http://yansnote.com/karen-new-year-event/). 
   * Arkar Aung <http://arkaraung.me/> 
     * From Twitter
   * Thet Khine <http://thetkhine.me/>
     * Gandalf 
-  * Nyi Lynn Seck <https://nyilynnseck.blogspot.com/>
-    * Ko Nyi, first introduced by Ma Hla 
+  * Nyi Lynn Seck <https://nyilynnseck.blogspot.com/>  
+    * Ko Nyi, first introduced by Ma Hla, this bro has s*** tons of cool books. 
+* Blogs 
+  * Mahar Pañña <https://mahar.asia/>
+    * Knowledge is power.  
+  * a16z <https://a16z.com/content/>  
+    * "Software is eating the world."  
+  * Local tech people <http://mhatsu.to/>  
+    * A lot of cool stuff for local devs  
 
 ## History of blogging 
 I somehow came across this [YouTube video][5] from ColdFusion and found out the very first blog on the internet, [Justin's Home Page][6].
