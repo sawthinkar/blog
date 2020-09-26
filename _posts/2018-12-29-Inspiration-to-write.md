@@ -8,7 +8,7 @@ The third post contains a list of pretty good blogs
 
 *[Edited 19:40 Jan 22, 2019]*  
 *[Edited 12:30 Sep 13, 2019]*  
-*[Edited 17:51 Sep 26, 2020]*  
+*[Edited 18:04 Sep 26, 2020]*  
 
 * Aaron Swartz, The Internet's Own Boy <http://www.aaronsw.com/weblog>
 * [Joseph "Joe" Leslie Armstrong][3], the creator of [Erlang programming language][4] 
