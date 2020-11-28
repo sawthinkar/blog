@@ -36,3 +36,6 @@ title: So What's Next, 2020
   - Campaign Messages  
   - Fluent in ethnic languages apart from Burmese  
   - Understanding different Hluttaws and their roles  
+
+### Things I might write before I die, or publish after my death. 
+- How to preserve/support/appreciate/restore race, ethnicity, culture, language, tradition, tribal community, indigenous heritage, history and legacy. 
