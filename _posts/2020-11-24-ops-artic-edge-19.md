@@ -26,3 +26,8 @@ Bravo Six, Going Dark
 
 Sierra Tango Kilo
 ```
+
+``` 
+Embrace the suck 
+``` 
+
