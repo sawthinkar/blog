@@ -22,6 +22,9 @@ title: So What's Next, 2020
     - 64 - Financial service activities, except insurace and pension funding  
     - 65 -  Insurance, reinsurance and pension funding, except compulsory social security  
     - 66 - Activities auxiliary to financial service and insurace activities  
+    - Share Classes 
+    - Share Allocation 
+    - Private/Public 
   - IRD  
   - FRD  
   - CBM  
