@@ -4,7 +4,7 @@ title: အမှတ်မရှိ၊ လမ်းမရှိ၊ ကီလီ�
 ---
 
 *[10:03 August 28, 2020] Yangon*  
-*[05:59 August 3, 2021] Hpa-An*
+*[08:27 August 3, 2021] Hpa-An*
 
 စက်ဝိုင်းရယ် ဒေါ်စိန်ရယ် ချစ်ထူးရယ်
 အော် ဘဝတွေဘဝတွေ။ 
@@ -15,7 +15,10 @@ title: အမှတ်မရှိ၊ လမ်းမရှိ၊ ကီလီ�
 
 တွီတာအသုံးပြုသူတစ်ယောက် ၂၀၂၁ သြဂုတ် ၃ ရက်နေ့မှာ စန်ဖရန်မြို့လေးနဲ့ ပတ်သက်ပြီးတင်ထားတာလေးတစ်ခု။  
 [_"This happened in a neighborhood with a large immigrant population. Would this happen in Presidio Heights, Russian Hill or anywhere near Pelosi’s residence the 
-@sfpd would be there in a minute.  Our authorities don’t really care about SF children, especially immigrant ones. 8/"_](https://twitter.com/kaisparnas/status/1422290151317770243?s=20)
+@sfpd would be there in a minute.  Our authorities don’t really care about SF children, especially immigrant ones. 8/"_](https://twitter.com/kaisparnas/status/1422290151317770243?s=20) 
+
+SF's Housing Crisis အကြောင်းရှင်းပြထားတာ။ 
+[How Burrowing Owls Lead To Vomiting Anarchists (Or SF’s Housing Crisis Explained)](https://techcrunch.com/2014/04/14/sf-housing/) 
 
 ၂၀၁၆ လောက်တုန်းကပေါ့ Tech Crunch Hackathon လုပ်တဲ့ Pier 48 ကအပြန်မှာ ညကလည်းအိပ်ရေးမဝတဝနဲ့ထွက်လာတော့ လမ်းမှာအိပ်နေတဲ့ homeless တစ်ယောက်ကိုသွားတွေ့တယ်။ အော်ငါတို့ ဟိုအထဲမှာတော့ မိုးလုံလေလုံနဲ့ နည်းပညာကုမ္ပဏီတွေက sponsor ပေးထားတာတဲ့ အစားအသောက် ဘူဖေးတွေ၊ လက်ဆောင် freebies တွေ၊ ခေါင်းစွပ်ဆွယ်တာတွေ၊ လည်ပင်းပတ်ခေါင်းအုံးတွေ၊ အအေးလိုချင်ရင် လေအေးပေးစက်၊ အပူလိုချင်ရင် အပူပေးစက်တွေနဲ့ အဆင်ပြေနေချိန်မှာ ဒီအပြင်မှာတော့ သူတို့ကဒီလိုတွေနေနေကြရတယ်ဆိုတဲ့အတွေးကအရင်ဆုံးဝင်လာတယ်။ 
 
