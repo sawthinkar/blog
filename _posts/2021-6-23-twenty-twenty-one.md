@@ -4,7 +4,6 @@ title: Twenty Twenty One
 ---
 
 *[June 23, 2021] Yangon*  
-
 *Updated [23:42 June 25, 2021] Yangon*  
 
 **Many stories left untold yet.**
