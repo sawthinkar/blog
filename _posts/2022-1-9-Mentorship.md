@@ -17,3 +17,7 @@ the guidance provided by a mentor, especially an experienced person in a company
     ![Chanakya](https://upload.wikimedia.org/wikipedia/commons/c/cd/Chanakya_artistic_depiction.jpg)
 2. Aristotle and Alexander the Great
 3. Angela Merkel and Helmut Kohl
+
+နိုင်ငံရေးလုပ်ရင်မျိုးရိုးရှိရင်ရှိမရှိရင်ဆရာကောင်းသမားကောင်းရှိရတယ်။ ~ ဆရာအောင်ဖေ၊ ၂၀၂၀ ပြည့်နှစ်၊ နိုဝင်ဘာလ  
+
+အာဏာကိုချီးလိုရွံရှာပါ။ ~ ဆရာအောင်ဖေ၊ ၂၀၂၁ ခုနှစ်၊ ဖေဖော်ဝါရီလ  
