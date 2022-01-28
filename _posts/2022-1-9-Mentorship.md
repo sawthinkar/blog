@@ -32,6 +32,26 @@ the guidance provided by a mentor, especially an experienced person in a company
     - Colin Lucas  
     <img src="https://i.ytimg.com/vi/2oTcrFEUKHY/maxresdefault.jpg" height="273"/>
 
-နိုင်ငံရေးလုပ်ရင်မျိုးရိုးရှိရင်ရှိမရှိရင်ဆရာကောင်းသမားကောင်းရှိရတယ်။ ~ ဆရာအောင်ဖေ၊ ၂၀၂၀ ပြည့်နှစ်၊ နိုဝင်ဘာလ  
+*"နိုင်ငံရေးလုပ်ရင်မျိုးရိုးရှိရင်ရှိ မရှိရင်ဆရာကောင်းသမားကောင်းရှိရတယ်။"*  
+~ ဆရာအောင်ဖေ၊ ၂၀၂၀ ပြည့်နှစ်၊ နိုဝင်ဘာလ  
 
-အာဏာကိုချီးလိုရွံရှာပါ။ ~ ဆရာအောင်ဖေ၊ ၂၀၂၁ ခုနှစ်၊ ဖေဖော်ဝါရီလ  
+*အာဏာကိုမစင်လိုရွံရှာပါ။*  
+~ ဆရာအောင်ဖေ၊ ၂၀၂၁ ခုနှစ်၊ ဖေဖော်ဝါရီလ  
+
+**Book List**
+
+[The Prince](https://en.wikipedia.org/wiki/The_Prince)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Machiavelli_Principe_Cover_Page.jpg" height="273"/>
+
+[The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)  
+<img src="https://images-na.ssl-images-amazon.com/images/I/41yO95t41bL._SX331_BO1,204,203,200_.jpg" height="273"/>
+
+[Arthashastra](https://en.wikipedia.org/wiki/Arthashastra) (အရ်တ္ထသျှတ္တရ)  
+<img src="https://images-na.ssl-images-amazon.com/images/I/71zXJLFffPL.jpg" height="273">
+
+[Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) Politics (အဝိဟိံသာနိုင်ငံရေး)  
+<img src="https://s3.ap-southeast-1.amazonaws.com/cdn.sawthinkar/avihimsa-politics.jpg" height="273"/> 
+
+**Podcast List** 
+
+[War Room, US Army War College Podcast](https://podcasts.apple.com/us/podcast/a-better-peace-the-war-room-podcast/id1368621724)
