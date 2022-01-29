@@ -9,9 +9,7 @@ title: The Art of Mentorship (Tutelage)
 mentorship  
 /ˈmɛntɔːˌʃɪp/  
 noun  
-*noun: mentorship; plural noun: mentorships; noun: mentor-ship; plural noun: mentor-ships*
-the guidance provided by a mentor, especially an experienced person in a company or educational institution.  
-"he is revered by his employees for his mentorship and problem-solving qualities"  
+*the guidance provided by a mentor, especially an experienced person in a company or educational institution.*  
 *Definitions from Oxford Languages*
 
 1. Chandragupta Maurya and Chanakya/Kauṭilya/Vishnugupta (Maurya Empire)
@@ -22,35 +20,47 @@ the guidance provided by a mentor, especially an experienced person in a company
 2. Alexander the Great and Aristotle
     - Aristotle  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/440px-Aristotle_Altemps_Inv8575.jpg" height="273"/>
-3. Angela Merkel and Helmut Kohl
+3. Alexander Hamilton and Presbyterian Reverend Hugh Knox  
+4. Angela Merkel and Helmut Kohl
     - Helmut Kohl  
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Helmut_Kohl_%281996%29_cropped.jpg" height="273"/>
-4. Vladimir Putin and Anatoly Sobchak
+5. Vladimir Putin and Anatoly Sobchak
     - Anatoly Sobchak  
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Anatoly_Sobchak.jpg" height="273" />
-5. Boris Johnson and Colin Lucas
+6. Boris Johnson and Colin Lucas
     - Colin Lucas  
     <img src="https://i.ytimg.com/vi/2oTcrFEUKHY/maxresdefault.jpg" height="273"/>
 
 *"နိုင်ငံရေးလုပ်ရင်မျိုးရိုးရှိရင်ရှိ မရှိရင်ဆရာကောင်းသမားကောင်းရှိရတယ်။"*  
 ~ ဆရာအောင်ဖေ၊ ၂၀၂၀ ပြည့်နှစ်၊ နိုဝင်ဘာလ  
 
-*အာဏာကိုမစင်လိုရွံရှာပါ။*  
+*"အာဏာကိုမစင်လိုရွံရှာပါ။"*  
 ~ ဆရာအောင်ဖေ၊ ၂၀၂၁ ခုနှစ်၊ ဖေဖော်ဝါရီလ  
 
 **Book List**
 
-[The Prince](https://en.wikipedia.org/wiki/The_Prince)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Machiavelli_Principe_Cover_Page.jpg" height="273"/>
-
-[The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)  
+[The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) (5th century BCE)  
 <img src="https://images-na.ssl-images-amazon.com/images/I/41yO95t41bL._SX331_BO1,204,203,200_.jpg" height="273"/>
 
-[Arthashastra](https://en.wikipedia.org/wiki/Arthashastra) (အရ်တ္ထသျှတ္တရ)  
+[Arthashastra](https://en.wikipedia.org/wiki/Arthashastra) (အရ်တ္ထသျှတ္တရ) (3rd century BCE)  
 <img src="https://images-na.ssl-images-amazon.com/images/I/71zXJLFffPL.jpg" height="273">
 
-[Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) Politics (အဝိဟိံသာနိုင်ငံရေး)  
+[The Prince](https://en.wikipedia.org/wiki/The_Prince) (1532)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Machiavelli_Principe_Cover_Page.jpg" height="273"/>
+
+[On War](https://en.wikipedia.org/wiki/On_War) (1832)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Vomkriege.jpg" height="273"/>
+
+[The Man Versus The State](https://en.wikipedia.org/wiki/The_Man_Versus_the_State) (1884)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Man_Versus_The_State%2C_by_Herbert_Spencer.jpg" height="273"/>
+
+[The Dictator's Handbook](https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook) (2011, September 1)  
+<img src="https://upload.wikimedia.org/wikipedia/en/f/fe/The_Dictator%27s_Handbook_cover.png" height="273"/> 
+
+[Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) Politics (အဝိဟိံသာနိုင်ငံရေး) (2016, Nov)  
 <img src="https://s3.ap-southeast-1.amazonaws.com/cdn.sawthinkar/avihimsa-politics.jpg" height="273"/> 
+
+
 
 **Podcast List** 
 
