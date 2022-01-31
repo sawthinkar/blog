@@ -4,7 +4,7 @@ title: The Art of Mentorship (Tutelage)
 ---
 
 *[January 9, 2022] Hpa-An, Kayin State*  
-*Updated [January 20, 2022] Hpa-An, Kayin State*
+*Updated [January 29, 2022] Hpa-An, Kayin State*
 
 mentorship  
 /ˈmɛntɔːˌʃɪp/  
@@ -21,7 +21,7 @@ noun
     - Aristotle  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/440px-Aristotle_Altemps_Inv8575.jpg" height="273"/>
 3. Alexander Hamilton and Presbyterian Reverend Hugh Knox  
-4. Angela Merkel and Helmut Kohl
+    - *"Whereas Nicholas Cruger exposed Alexander Hamilton to material realities, the Reverend Hugh Knox provided him with a strong spiritual and intellectual grounding. Knox--who took Hamilton under his wing shortly after Rachel's death--was a Scottish Presbyterian minister at odds with the mainstream of his faith because of his firm belief in free will over the Calvinist doctrine of Predestination. For someone like Hamilton who was otherwise predestined to a life of obscurity, we can see how Knox's philosophy would have appealed to him. The Reverend's encouragement and influence undoubtedly led Hamilton to dream big dreams. Knox, a brilliant sermon-writer and occasional doctor, took the young orphan under his wing and tutored him in the humanities and sciences. When he was able to get away from the office, Hamilton further expanded his intellect in Knox's library, where he read voluminously in the classics, literature, and history. Hamilton, who had early fancied himself a writer, published an occasional poem in the local paper, and impressed the residents of the island with a particularly vivid and florid account of a hurricane in 1772."*[^1]
     - Helmut Kohl  
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Helmut_Kohl_%281996%29_cropped.jpg" height="273"/>
 5. Vladimir Putin and Anatoly Sobchak
@@ -65,3 +65,7 @@ noun
 **Podcast List** 
 
 [War Room, US Army War College Podcast](https://podcasts.apple.com/us/podcast/a-better-peace-the-war-room-podcast/id1368621724)
+
+Footnotes
+
+[^1]: University of Groningen. (n.d.). Mentors (1768–1773) < A Biography of Alexander Hamilton (1755–1804) < Biographies < American History From Revolution To Reconstruction and beyond. American History From Revolution to Reconstruction and Beyond. Retrieved January 31, 2022, from http://www.let.rug.nl/usa/biographies/alexander-hamilton/mentors-(1768-1773).php
