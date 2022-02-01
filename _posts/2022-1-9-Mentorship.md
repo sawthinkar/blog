@@ -4,13 +4,15 @@ title: The Art of Mentorship (Tutelage)
 ---
 
 *[January 9, 2022] Hpa-An, Kayin State*  
-*Updated [January 31, 2022] Hpa-An, Kayin State*
+*Updated [February 1, 2022] Hpa-An, Kayin State*
 
 mentorship  
 /ˈmɛntɔːˌʃɪp/  
 noun  
 *the guidance provided by a mentor, especially an experienced person in a company or educational institution.*  
 *Definitions from Oxford Languages*
+
+"*The [guru–shishya tradition](https://en.wikipedia.org/wiki/Guru%E2%80%93shishya_tradition), or parampara ("lineage"), denotes a succession of teachers and disciples in Indian-origin religions such as Hinduism, Jainism, Sikhism and Buddhism (including Tibetan and Zen traditions)."* ~ Wikipedia
 
 1. Chandragupta Maurya and Chanakya/Kauṭilya/Vishnugupta (Maurya Empire)
     - Chanakya  
