@@ -15,12 +15,12 @@ noun
 "*The [guru–shishya tradition](https://en.wikipedia.org/wiki/Guru%E2%80%93shishya_tradition), or parampara ("lineage"), denotes a succession of teachers and disciples in Indian-origin religions such as Hinduism, Jainism, Sikhism and Buddhism (including Tibetan and Zen traditions)."* ~ Wikipedia
 
 1. Chandragupta Maurya and Chanakya/Kauṭilya/Vishnugupta (Maurya Empire)
-    - Chanakya  
+    - Chanakya (चाणक्यः)(375 BCE, Chanaka village in Golla region (Jain legends) or in Takshashila (Buddhist legends) - 283 BCE, Pataliputra, Maurya Empire)  
     ![Chanakya](https://upload.wikimedia.org/wikipedia/commons/c/cd/Chanakya_artistic_depiction.jpg)
     - Works  
         - [Arthashastra](https://en.wikipedia.org/wiki/Arthashastra)  
 2. Alexander the Great and Aristotle
-    - Aristotle  
+    - Aristotle (Ἀριστοτέλης)(384 BC, Stagira, Chalcidice - 322 BC (aged 61–62) Euboea, Macedonian Empire)  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/440px-Aristotle_Altemps_Inv8575.jpg" height="273"/>
 3. Alexander Hamilton and Presbyterian Reverend Hugh Knox  
     - *"Whereas Nicholas Cruger exposed Alexander Hamilton to material realities, the Reverend Hugh Knox provided him with a strong spiritual and intellectual grounding. Knox--who took Hamilton under his wing shortly after Rachel's death--was a Scottish Presbyterian minister at odds with the mainstream of his faith because of his firm belief in free will over the Calvinist doctrine of Predestination. For someone like Hamilton who was otherwise predestined to a life of obscurity, we can see how Knox's philosophy would have appealed to him. The Reverend's encouragement and influence undoubtedly led Hamilton to dream big dreams. Knox, a brilliant sermon-writer and occasional doctor, took the young orphan under his wing and tutored him in the humanities and sciences. When he was able to get away from the office, Hamilton further expanded his intellect in Knox's library, where he read voluminously in the classics, literature, and history. Hamilton, who had early fancied himself a writer, published an occasional poem in the local paper, and impressed the residents of the island with a particularly vivid and florid account of a hurricane in 1772."* [^1]
@@ -33,6 +33,9 @@ noun
 6. Boris Johnson and Colin Lucas
     - Colin Lucas  
     <img src="https://i.ytimg.com/vi/2oTcrFEUKHY/maxresdefault.jpg" height="273"/>
+7. Genghis Khan and Qiu Chuji
+    - Qiu Chuji (丘處機)/ Taoist Name, Chang Chun Zi (長春子) (1148 Chi-hsia, China — July, 1227 Beijing, China)  
+    <img src="https://witchfromfareast.files.wordpress.com/2014/07/11969697b2f.jpg" height="273"/>
 
 *"နိုင်ငံရေးလုပ်ရင်မျိုးရိုးရှိရင်ရှိ မရှိရင်ဆရာကောင်းသမားကောင်းရှိရတယ်။"*  
 ~ ဆရာအောင်ဖေ၊ ၂၀၂၀ ပြည့်နှစ်၊ နိုဝင်ဘာလ  
