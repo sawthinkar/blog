@@ -7,4 +7,4 @@ title: Economics
 
 Inclusive economic institutions are supported by inclusive political institutions, while extractive economic institutions “are designed to extract incomes and wealth from one subset of society to benefit a different subset. monetary gain, while inclusive leaders want to help their peoples. 18 Dec 2014 https://digital.wpi.edu/downloads/1831cm35r 
 
-Inward and Outward-Looking Countries Revisited: The Case of Indonesia ~ Hla Myint, Pages 39-52 | Published online: 21 Aug 2006 https://www.tandfonline.com/doi/abs/10.1080/00074918412331334602
+Inward and Outward-Looking Countries Revisited: The Case of Indonesia ~ Hla Myint, Pages 39-52 Published online: 21 Aug 2006 https://www.tandfonline.com/doi/abs/10.1080/00074918412331334602
