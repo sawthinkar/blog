@@ -25,6 +25,25 @@ https://www.rosatom.ru/en/index.html
 Nuclear Waste  
 
 ***Solution Attempts***  
+
+[List of radioactive waste treatment technologies](https://en.wikipedia.org/wiki/List_of_radioactive_waste_treatment_technologies)
+- Storage
+    - Deep geological repository
+    - Dry cask storage
+    - Ducrete
+    - Ocean floor disposal
+    - Saltcrete
+    - Spent fuel pool
+    - Spent nuclear fuel shipping cask (transportation)
+    - Synroc
+    - Waste Isolation Pilot Plant
+    - Deep borehole disposal
+    - Vitrification / Geomelting
+- Treatment
+    - [Nuclear transmutation](https://en.wikipedia.org/wiki/Nuclear_transmutation)
+    - Nuclear reprocessing
+        - PUREX
+
 Deep Isolation  
 https://www.deepisolation.com/technology/  
 
