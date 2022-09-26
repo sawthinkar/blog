@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-A place to include any other types of information that I'd like to include about myself.
+Write til you drop. 
 
 ### Contact me
 
