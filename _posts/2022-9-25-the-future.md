@@ -3,7 +3,7 @@ layout: post
 title: The Future 
 ---
 
-*[September 25, 2022] Hpa-An, Kayin State*  
+*[September 25, 2022] ထိက်တင်ဓံင့်ဍုံ, Kayin State*  
 
 "Our imagination is the only limit to what we can hope to have in the future."  
 Charles F. Kettering, American Inventor (1876-1958)
