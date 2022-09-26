@@ -72,6 +72,6 @@ noun
 
 [War Room, US Army War College Podcast](https://podcasts.apple.com/us/podcast/a-better-peace-the-war-room-podcast/id1368621724)
 
-Footnotes
+Footnotes:
 
 [^1]: University of Groningen. (n.d.). Mentors (1768–1773) < A Biography of Alexander Hamilton (1755–1804) < Biographies < American History From Revolution To Reconstruction and beyond. American History From Revolution to Reconstruction and Beyond. Retrieved January 31, 2022, from http://www.let.rug.nl/usa/biographies/alexander-hamilton/mentors-(1768-1773).php
