@@ -5,8 +5,6 @@ title: The Future
 
 *[September 25, 2022] Hpa-An, Kayin State*  
 
-<h1>The Future</h1>
-
 "Our imagination is the only limit to what we can hope to have in the future."  
 Charles F. Kettering, American Inventor (1876-1958)
 
