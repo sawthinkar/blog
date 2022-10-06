@@ -3,7 +3,8 @@ layout: post
 title: The Future 
 ---
 
-*[September 25, 2022] ထိက်တင်ဓံင့်ဍုံ, Kayin State*  
+*[September 25, 2022] ဍုံထိက်တင်ဓံင့်, ဖၠုံထီ့ခါန်ႋ*  
+*Updated [October 5, 2022] ဍုံထ်ုအင်, ဖၠုံထီ့ခါန်ႋ*
 
 "Our imagination is the only limit to what we can hope to have in the future."  
 Charles F. Kettering, American Inventor (1876-1958)
@@ -14,12 +15,15 @@ The Debate Over Small Nuclear Reactors
 https://learningenglish.voanews.com/amp/the-debate-over-small-nuclear-reactors/6744569.html  
 
 ***SMR Race***  
-Rolls-Royce Small Modular Reactors  
+Rolls-Royce Small Modular Reactors  (UK)  
 https://www.rolls-royce.com/innovation/small-modular-reactors.aspx#/  
 https://www.rolls-royce-smr.com/press/rolls-royce-smr-entering-regulatory-assessment-process  
 
-Rosatom State Atomiс Energy Corporation  
+Rosatom State Atomiс Energy Corporation  (Russia)  
 https://www.rosatom.ru/en/index.html  
+
+NuScale Power  (US)  
+https://www.nuscalepower.com/  
 
 ***Problem***  
 Nuclear Waste  

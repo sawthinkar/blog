@@ -3,8 +3,8 @@ layout: post
 title: Economics 
 ---
 
-*[September 18, 2022] ထိက်တင်ဓံင့်ဍုံ, Kayin State*  
-*[Updated October 5, 2022] ဍုံထ်ုအင်, ဖၠုံထီ့ခါန်ႋ*
+*[September 18, 2022] ဍုံထိက်တင်ဓံင့်, ဖၠုံထီ့ခါန်ႋ*  
+*Updated [October 5, 2022] ဍုံထ်ုအင်, ဖၠုံထီ့ခါန်ႋ*
 
 Inclusive economic institutions are supported by inclusive political institutions, while extractive economic institutions “are designed to extract incomes and wealth from one subset of society to benefit a different subset. monetary gain, while inclusive leaders want to help their peoples. 18 Dec 2014 https://digital.wpi.edu/downloads/1831cm35r 
 
