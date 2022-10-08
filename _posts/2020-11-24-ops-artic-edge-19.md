@@ -3,7 +3,7 @@ layout: post
 title: "Operation Artic Edge 2019"
 ---
 
-*[21:34 November 24, 2020] Hpa-An* 
+*[21:34 November 24, 2020] Hpa-An*  
 
 ```
 Hotel Alfa Papa Papa Yankee 

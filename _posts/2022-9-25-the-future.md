@@ -3,8 +3,8 @@ layout: post
 title: The Future 
 ---
 
-*[September 25, 2022] ဍုံထိက်တင်ဓံင့်, ဖၠုံထီ့ခါန်ႋ*  
-*Updated [October 5, 2022] ဍုံထ်ုအင်, ဖၠုံထီ့ခါန်ႋ*
+*[September 25, 2022] ထိက်တင်ဓံင့်, ဖၠုံထီ့ခါန်ႋ*  
+*Updated [October 5, 2022] ထ်ုအင်, ဖၠုံထီ့ခါန်ႋ*
 
 "Our imagination is the only limit to what we can hope to have in the future."  
 Charles F. Kettering, American Inventor (1876-1958)

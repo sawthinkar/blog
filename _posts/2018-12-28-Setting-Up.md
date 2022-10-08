@@ -3,7 +3,7 @@ layout: post
 title: Setting up the blog 🎉
 ---
 
-*[Dec 28, 2018] Yangon*   
+*[Dec 28, 2018] Yangon*  
 Welcome to my very first post!  
 
 So what did I just do? ကျနော်ဘာလုပ်မိလိုက်ပါလိမ့်။

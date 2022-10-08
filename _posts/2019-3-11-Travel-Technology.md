@@ -3,7 +3,8 @@ layout: post
 title: Travel + Technology 2019 
 ---
 
-*[13:57 March 11, 2019] Yangon* *[Updated: Feb 16, 2020]*  
+*[13:57 March 11, 2019] Yangon*  
+*Updated [Feb 16, 2020]*  
 A few months working with Property Management System and Channel Managers. 
 
 I first heard about Flymya and Get from a friend who used to work there. Then I checked them out, I came across [BOD Tech](https://www.bodtechv.com/) which is working on pretty much every consumer product here in Myanmar.  

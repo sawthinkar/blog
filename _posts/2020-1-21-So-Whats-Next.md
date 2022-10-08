@@ -3,8 +3,8 @@ layout: post
 title: So What's Next, 2020
 ---
 
-*[Feb 16, 2020] Hpa-an* 
-*Updated [08:55 Nov 25, 2020] Hpa-an*
+*[Feb 16, 2020] Hpa-an*  
+*Updated [08:55 Nov 25, 2020] Hpa-an*  
 
 - 2020 
 - Covid-19 

@@ -2,7 +2,7 @@
 layout: post
 title: Australia Trip 2019
 ---
-*[13:57 March 11, 2019] Yangon*   
+*[13:57 March 11, 2019] Yangon*  
 Monk TGL, Melbourne, Sydney, Gold Coast, Coffs Harbour 
 
 ## Trip to Australia with Monk TGL 10 - 24  

@@ -3,7 +3,7 @@ layout: post
 title: Tutorial Blog Testing in Markdown
 ---
 
-*[20:40 Apr 24, 2020] Hpa-an* 
+*[20:40 Apr 24, 2020] Hpa-an*  
 
 ```
 No language indicated, so no syntax highlighting. 
