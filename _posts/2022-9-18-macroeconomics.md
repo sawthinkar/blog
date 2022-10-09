@@ -92,7 +92,6 @@ Footnotes:
 [^9]: Eleven Media Group. (2017, Dec 10). Retrieved from https://news-eleven.com/headline/25119
 
 [^10]: Investopedia. (2021, Jan 27). Retrieved from https://www.investopedia.com/terms/w/wealtheffect.asp
-Bibliography  
 
 [^11]: Zaw, T. (2020, September). Evolution of Money and Banking in Myanmar (1st Edition). Tun Foundation Literary Committee (00962). https://www.goodreads.com/book/show/58442934-evolution-of-money-and-banking-in-myanmar
 
