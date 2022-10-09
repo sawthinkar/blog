@@ -39,6 +39,7 @@ Books by U Hla Myint
 > နိုင်ငံတော်သမ္မတ ဦးသိန်းစိန်တက်ရောက်ခဲ့ပြီး အစိုးရသစ် လက်ထက်တွင် ပထမဦးဆုံးနှင့် အကြီးဆုံးအလုပ်ရုံဆွေးနွေးပွဲတွင် ဒေါက်တာဦးမြင့်က "မြန်မာနိုင်ငံတွင် ဆင်းရဲနွမ်းပါးမှု လျော့ကျရေးလမ်းပြစာတမ်း"ကို ဖတ်ကြားခဲ့သည်။ မြန်မာနိုင်ငံတွင် ဆင်းရဲနွမ်းပါးမှု လျော့ကျရေး ဆောင်ရွက်ရာ၌ အချက်လေးချက်ကို အဓိကထားဆောင်ရွက်မည်ဟု ၎င်းက ပြောကြားသည်။ ပထမဆုံးအချက်မှာ တိုင်းပြည်၏ စီးပွားရေးအခြေအနေမှာ မည်သည့်နေရာတွင် ရောက်ရှိနေကြောင်း သိရှိရန်၊ လုပ်ရန်နှင့် ဒုတိယအချက်မှာ မိမိတို့သွားမည့် ပန်းတိုင်အတွက်လုပ်ကိုင်ဆောင်ရွက်ရန် မဟာဗျူဟာချမှတ်ရန်ဖြစ်သည်။ တတိယအချက်မှာ ခရီးမည်မျှရောက်နေကြပြီဖြစ်ကြောင်း သုံးသပ်ရန်နှင့် နောက်ဆုံးအချက်မှာ လက်တွေ့အကောင်အထည်ဖော်ရန်ဖြစ်သည်။ (စာမျက်နှာ၊ ၃၀)
 
 > [U Myint](https://en.wikipedia.org/wiki/U_Myint) is a Burmese economist and served as the Chief Presidential Adviser to Thein Sein, the former President of Burma, and led his Economic Advisory Unit.  
+
 ### Myanmar Kyat Exchange Rate Issue  
 
 > 15. On the demand side, let us say for dollars, there are three types of demand. First, there is transaction demand – where dollars are required for transactions, that is to buy and sell in the market. Second, there is precautionary demand – to have dollars in store for security and to meet unexpected events and emergencies. Third, there is speculative demand – to use dollars to speculate in foreign exchange, commodity, real estate, stock and financial markets.
@@ -55,13 +56,20 @@ recommendations that may be considered to address the immediate concerns of the 
 > 3. တတိယ အချက်အနေဖြင့် နိုင်ငံတော်၏ အတိုင်ပင်ခံပုဂ္ဂိုလ်အနေဖြင့် စီးပွားရေး ကော်မတီအဖွဲ့ဝင်များ၊ ပြည်ထောင်စုအဆင့်နှင့် တိုင်း/ပြည်နယ်အဆင့်များရှိ စီမံကိန်း၊ ဘဏ္ဍာရေး၊ ကုန်သွယ်ရေးကိစ္စများနှင့် ဗဟိုဘဏ်အဆင့် ငွေရေးကြေးရေးကိစ္စများ အဓိကလုပ်ဆောင်နေသူများနှင့် မကြာခဏ အနှစ်သာရရှိရှိ အမြင်ဖလှယ်မှုပြုလုပ်ပေးသင့်ကြောင်းနှင့် အဆိုပါ ပုဂ္ဂိုလ်များကို လွတ်လွတ်လပ်လပ်နှင့် ပွင့်ပွင့်လင်းလင်း ပြောနိုင်ရေး အခွင့်အလမ်းများ ဖန်တီးပေးရေးနှင့် အားပေးရန်  
 > 4. စတုတ္ထအချက်အနေဖြင့် လက်ရှိရရှိထားသည့် ရွေးကောက်ခံအစိုးရမှာ လက်ရှိအခြေအနေမှ ရှေ့ဆက်လှမ်းတက်ရန် အခွင့်အလမ်းကောင်းတစ်ခုဖြစ်နေပြီး အဆိုပါအခွင့်အလမ်းကောင်းကို အသုံးချနိုင်ရန် စီးပွားရေး၊ ဘဏ္ဍာရေး၊ အုပ်ချုပ်ရေး နှင့် အခြားအရေးပါသည့် ကဏ္ဍများတွင် ကျွမ်းကျင်ပိုင်နိုင်ကြောင်း သက်သေထူပြီးသူ အများအပြားရှိနေကာ နိုင်ငံတော်၏ အတိုင်ပင်ခံပုဂ္ဂိုလ်အနေဖြင့် အဆိုပါ ပုဂ္ဂိုလ်များဖြင့်တွေ့ဆုံကာ ၎င်းတို့တင်ပြသည်များကို နားထောင်ခြင်း၊ ၎င်းတို့၏ အခက်အခဲများကို မှတ်သားခြင်းနှင့် ၎င်းတို့၏ အကြံပြုချက်များကို စဉ်းစားရာတွင် ဆန္ဒမစောစေအောင် ထိန်းပေးရန်
 
-Negative Wealth Effect  
+> The [Wealth Effect](https://en.wikipedia.org/wiki/Wealth_effect) is a behavioral economic theory suggesting that people spend more as the value of their assets rise. [^10]
 
-macroeconomics (n) ကျယ်ပြန့်သော အမြင်ဖြင့် စီးပွားရေးဆိုင်ရာ လေ့လာမှု။ အကျယ်ကြည့် စီးပွားရေးပညာ။ မက်ခရို ဘောဂဗေဒ။ 
+> For example countries with well-developed financial sector and well-functioning money markets like the U.S., Germany and Japan pursue monetary policies which place more reliance in employing open market operations and changing of interest rates, whereas in countries where the financial sectors has not been well developed like in Myanmar, more reliance is placed in changing the reserve requirements of commercial banks. (Zaw, 2020)[^11]
+### Glossary  ([ပညာကျော် - ကုန်သွယ်စီးပွားအဘိဓာန်](https://www.myanmarbookshop.com/MyanmarBooks/BookDetails/21850))
 
-microeconomics (n) အသေးစိတ်လေ့လာကြည့်သော စီးပွားရေးပညာ။ အခြေခံစီးပွားရေးယူနစ်များ၏ ပြုမူဆောင်ရွက်ပုံကို လေ့လာသည့်ဘောဂဗေဒပညာရပ်။ မိုက်ခရို ဘောဂဗေဒ။ 
+1. macroeconomics (n) ကျယ်ပြန့်သော အမြင်ဖြင့် စီးပွားရေးဆိုင်ရာ လေ့လာမှု။ အကျယ်ကြည့် စီးပွားရေးပညာ။ မက်ခရို ဘောဂဗေဒ။ 
 
-consumer price index (n) စားသုံးကုန်စျေးနှုန်း အညွှန်း။ 
+2. microeconomics (n) အသေးစိတ်လေ့လာကြည့်သော စီးပွားရေးပညာ။ အခြေခံစီးပွားရေးယူနစ်များ၏ ပြုမူဆောင်ရွက်ပုံကို လေ့လာသည့်ဘောဂဗေဒပညာရပ်။ မိုက်ခရို ဘောဂဗေဒ။ 
+
+3. consumer price index (n) စားသုံးကုန်စျေးနှုန်း အညွှန်း။ 
+
+Bibliography  
+
+Acemoglu, Daron. Robinson, James A. Why Nations Fail (New York: Crown Publishing Group, 2012): 74-366.  
 
 Footnotes:  
 
@@ -83,7 +91,9 @@ Footnotes:
 
 [^9]: Eleven Media Group. (2017, Dec 10). Retrieved from https://news-eleven.com/headline/25119
 
+[^10]: Investopedia. (2021, Jan 27). Retrieved from https://www.investopedia.com/terms/w/wealtheffect.asp
 Bibliography  
 
-Acemoglu, Daron. Robinson, James A. Why Nations Fail (New York: Crown Publishing Group, 2012): 74-366.  
+[^11]: Zaw, T. (2020, September). Evolution of Money and Banking in Myanmar (1st Edition). Tun Foundation Literary Committee (00962). https://www.goodreads.com/book/show/58442934-evolution-of-money-and-banking-in-myanmar
+
 
