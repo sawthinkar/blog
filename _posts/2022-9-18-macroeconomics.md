@@ -35,27 +35,27 @@ Books by U Hla Myint
 ### Economic liberalization in Myanmar  
 > [The economic liberalization of Myanmar](https://en.wikipedia.org/wiki/Economic_liberalization_in_Myanmar) refers to the policy of liberalization orienting Myanma laws toward an open market economy. This process was initiated following the coup d’état of the Burmese junta in 1988 in order to transform the underperforming Burmese economy.  
 
+မြန်မာဖွံ့ဖြိုးရေး အရင်းအမြစ်အဖွဲ့ MDRI တည်ထောင်ရန် သမ္မတအကြံပေးပညာရှင်ပြောကြား  (၂၆ မေ ၊ ၂၀၁၁)[^6]
+> နိုင်ငံတော်သမ္မတ ဦးသိန်းစိန်တက်ရောက်ခဲ့ပြီး အစိုးရသစ် လက်ထက်တွင် ပထမဦးဆုံးနှင့် အကြီးဆုံးအလုပ်ရုံဆွေးနွေးပွဲတွင် ဒေါက်တာဦးမြင့်က "မြန်မာနိုင်ငံတွင် ဆင်းရဲနွမ်းပါးမှု လျော့ကျရေးလမ်းပြစာတမ်း"ကို ဖတ်ကြားခဲ့သည်။ မြန်မာနိုင်ငံတွင် ဆင်းရဲနွမ်းပါးမှု လျော့ကျရေး ဆောင်ရွက်ရာ၌ အချက်လေးချက်ကို အဓိကထားဆောင်ရွက်မည်ဟု ၎င်းက ပြောကြားသည်။ ပထမဆုံးအချက်မှာ တိုင်းပြည်၏ စီးပွားရေးအခြေအနေမှာ မည်သည့်နေရာတွင် ရောက်ရှိနေကြောင်း သိရှိရန်၊ လုပ်ရန်နှင့် ဒုတိယအချက်မှာ မိမိတို့သွားမည့် ပန်းတိုင်အတွက်လုပ်ကိုင်ဆောင်ရွက်ရန် မဟာဗျူဟာချမှတ်ရန်ဖြစ်သည်။ တတိယအချက်မှာ ခရီးမည်မျှရောက်နေကြပြီဖြစ်ကြောင်း သုံးသပ်ရန်နှင့် နောက်ဆုံးအချက်မှာ လက်တွေ့အကောင်အထည်ဖော်ရန်ဖြစ်သည်။ (စာမျက်နှာ၊ ၃၀)
 
-National Workshop on Reforms for Economic Development of Myanmar
-Myanmar International Convention Centre, Naypyitaw, 19-21 August, 2011
-Myanmar Kyat Exchange Rate Issue1
-U Myint2 
-(https://www.burmalibrary.org/docs12/NWR2011-08-Myanmar_Kyat_Exchange_Rate_Issue-Myint(en).pdf)
+> [U Myint](https://en.wikipedia.org/wiki/U_Myint) is a Burmese economist and served as the Chief Presidential Adviser to Thein Sein, the former President of Burma, and led his Economic Advisory Unit.  
+### Myanmar Kyat Exchange Rate Issue  
 
-လက်ရှိအစိုးရ၏ ကျန်ရှိသက်တမ်းအတွင်း လာအိုနိုင်ငံကို အမီလိုက်ရန်ပင် အလားအလာနည်းနေပြီး နာမကျန်းဖြစ်နေသည့် မြန်မာ့စီးပွားရေး ကုစားရန် နိုင်ငံတော်၏အတိုင်ပင်ခံပုဂ္ဂိုလ်က လုပ်ဆောင်ပေးဖို့ စဉ်းစားရန် အချက်လေးချက် ဒေါက်တာဦးမြင့် အကြံပြုတင်ပြ
-https://news-eleven.com/headline/25119
+> 15. On the demand side, let us say for dollars, there are three types of demand. First, there is transaction demand – where dollars are required for transactions, that is to buy and sell in the market. Second, there is precautionary demand – to have dollars in store for security and to meet unexpected events and emergencies. Third, there is speculative demand – to use dollars to speculate in foreign exchange, commodity, real estate, stock and financial markets.
+> 16. On supply side, in the case of Myanmar large foreign exchange inflows have come from sale of natural gas, jade and gem auctions, and upsurge of direct foreign investment especially in the energy sector and the associated special economic zone projects. Aside from these, there is also a growing feeling that a lot of private capital is flowing into Myanmar from neighbouring countries and from financial centers of the Middle East. These are to take advantage of high interest rates and to buy up real estate and other economic assets in anticipation of an opening up of business and reintegration of
+the Myanmar into the regional economy. Rapid privatization of recent years is believed to be another contributing factor. Wealthy Myanmar nationals are alleged to have brought dollars into the country and converted them into kyats to buy lucrative state assets put up for sale under the privatization programme. Information is difficult to obtain on these types of private investment and financial dealings for any country and lack of information has contributed to an atmosphere of uncertainty, which in turn encourages speculative activity. Given these circumstances, listed below are some
+recommendations that may be considered to address the immediate concerns of the kyat exchange rate appreciation. (U. Myint, 2011)[^7]
 
-https://my.wikipedia.org/wiki/%E1%80%99%E1%80%BC%E1%80%84%E1%80%B7%E1%80%BA%E1%81%8A_%E1%80%A6%E1%80%B8_(%E1%80%92%E1%80%B1%E1%80%AB%E1%80%80%E1%80%BA%E1%80%90%E1%80%AC)
+မြန်မာ့ ခရိုနီတွေကို လက်တွဲခေါ် သင့်သလား (၁၈ မေ ၊ ၂၀၁၂)[^8]  
+> သမ္မတ ဦးသိန်းစိန်ရဲ့ စီးပွားရေး အကြံပေး ဒေါက်တာ ဦးမြင့်က တိုင်းပြည်ရဲ့ စီးပွားရေး ကို အာဏာပိုင်တွေနဲ့ ပေါင်းပြီး ကြိုးကိုင် ချယ်လှယ်ထားသူ ခရိုနီတွေဟာလည်း တိုင်းပြည်ကို ချစ်တဲ့သူတွေ ဖြစ်လို့ သူတို့ကို စနစ်တကျ လက်တွဲခေါ်ယူဖို့ လိုတယ်လို့ ပြောကြား လိုက်တဲ့အပေါ် ဝေဖန်မှုတွေ ရှိခဲ့ပါတယ်။  
 
-https://www.bbc.com/burmese/burma/2012/05/120518_burmese_crony 
+လက်ရှိအစိုးရ၏ ကျန်ရှိသက်တမ်းအတွင်း လာအိုနိုင်ငံကို အမီလိုက်ရန်ပင် အလားအလာနည်းနေပြီး နာမကျန်းဖြစ်နေသည့် မြန်မာ့စီးပွားရေး ကုစားရန် နိုင်ငံတော်၏အတိုင်ပင်ခံပုဂ္ဂိုလ်က လုပ်ဆောင်ပေးဖို့ စဉ်းစားရန် အချက်လေးချက် ဒေါက်တာဦးမြင့် အကြံပြုတင်ပြ (10 December, 2017)[^9]  
+> 1. ပထမ အချက်အဖြစ် စီးပွားရေးကဏ္ဍကို ငြိမ်းချမ်းရေး တည်ဆောက်မှု နှင့် အတူ ထိပ်ဆုံးဦးစားပေးအဖြစ် သတ်မှတ်ထားကြောင်း ရှင်းလင်းပြတ်သားစွာ ထုတ်ပြန်ကြေညာပေးရန်
+> 2. ဒုတိယ အချက်အနေဖြင့် အဓိကအရေးပါသည့် သက်ဆိုင်သူအားလုံးက ထောက်ခံနိုင်သည့် စီးပွားရေး မဟာဗျုဟာတစ်ခု ရေးဆွဲပေးရန်ဖြစ်ပြီး မဟာဗျုဟာအကြမ်းကို ရေးဆွဲပြုစုကာ လွှတ်တော်ထံသို့ တရားဝင် အထောက်အထားအဖြစ် အတည်ပြုပေးနိုင်ရန် 
+> 3. တတိယ အချက်အနေဖြင့် နိုင်ငံတော်၏ အတိုင်ပင်ခံပုဂ္ဂိုလ်အနေဖြင့် စီးပွားရေး ကော်မတီအဖွဲ့ဝင်များ၊ ပြည်ထောင်စုအဆင့်နှင့် တိုင်း/ပြည်နယ်အဆင့်များရှိ စီမံကိန်း၊ ဘဏ္ဍာရေး၊ ကုန်သွယ်ရေးကိစ္စများနှင့် ဗဟိုဘဏ်အဆင့် ငွေရေးကြေးရေးကိစ္စများ အဓိကလုပ်ဆောင်နေသူများနှင့် မကြာခဏ အနှစ်သာရရှိရှိ အမြင်ဖလှယ်မှုပြုလုပ်ပေးသင့်ကြောင်းနှင့် အဆိုပါ ပုဂ္ဂိုလ်များကို လွတ်လွတ်လပ်လပ်နှင့် ပွင့်ပွင့်လင်းလင်း ပြောနိုင်ရေး အခွင့်အလမ်းများ ဖန်တီးပေးရေးနှင့် အားပေးရန်  
+> 4. စတုတ္ထအချက်အနေဖြင့် လက်ရှိရရှိထားသည့် ရွေးကောက်ခံအစိုးရမှာ လက်ရှိအခြေအနေမှ ရှေ့ဆက်လှမ်းတက်ရန် အခွင့်အလမ်းကောင်းတစ်ခုဖြစ်နေပြီး အဆိုပါအခွင့်အလမ်းကောင်းကို အသုံးချနိုင်ရန် စီးပွားရေး၊ ဘဏ္ဍာရေး၊ အုပ်ချုပ်ရေး နှင့် အခြားအရေးပါသည့် ကဏ္ဍများတွင် ကျွမ်းကျင်ပိုင်နိုင်ကြောင်း သက်သေထူပြီးသူ အများအပြားရှိနေကာ နိုင်ငံတော်၏ အတိုင်ပင်ခံပုဂ္ဂိုလ်အနေဖြင့် အဆိုပါ ပုဂ္ဂိုလ်များဖြင့်တွေ့ဆုံကာ ၎င်းတို့တင်ပြသည်များကို နားထောင်ခြင်း၊ ၎င်းတို့၏ အခက်အခဲများကို မှတ်သားခြင်းနှင့် ၎င်းတို့၏ အကြံပြုချက်များကို စဉ်းစားရာတွင် ဆန္ဒမစောစေအောင် ထိန်းပေးရန်
 
-https://en.wikipedia.org/wiki/U_Myint 
-
-https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/39604/10-10_20110526.pdf?sequence=1&isAllowed=y
-
-http://blog.irrawaddy.com/2011/08/blog-post_2804.html
-
-Negative Wealth Effect 
+Negative Wealth Effect  
 
 macroeconomics (n) ကျယ်ပြန့်သော အမြင်ဖြင့် စီးပွားရေးဆိုင်ရာ လေ့လာမှု။ အကျယ်ကြည့် စီးပွားရေးပညာ။ မက်ခရို ဘောဂဗေဒ။ 
 
@@ -74,6 +74,14 @@ Footnotes:
 [^4]: Bieniarz, N. (2014). The impact of inclusive and extractive institutions on Poland’s economy and quality of life before and after world war two: A virtuous and vicious journey through historical and personal evidence [Bachelor of Science Report]. Worcester Polytechnic Institute. Retrieved from https://digital.wpi.edu/downloads/1831cm35r  
 
 [^5]: Myint, H. (1984, August). Inward and Outward-Looking Countries Revisited: The Case of Indonesia. Bulletin of Indonesian Economic Studies, 20(2), 39–52. https://doi.org/10.1080/00074918412331334602  
+
+[^6]: 7 Day News. (2011, May 26). https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/39604/10-10_20110526.pdf
+
+[^7]: U. Myint. (2011, August 19). Myanmar Kyat Exchange Rate Issue. In Online Burma/Myanmar Library. National Workshop on Reforms for Economic Development of Myanmar Myanmar International Convention Centre. Retrieved October 9, 2022, from https://www.burmalibrary.org/docs12/NWR2011-08-Myanmar_Kyat_Exchange_Rate_Issue-Myint(en).pdf
+
+[^8]: BBC News. (2012, May 18). Retrieved from https://www.bbc.com/burmese/burma/2012/05/120518_burmese_crony 
+
+[^9]: Eleven Media Group. (2017, Dec 10). Retrieved from https://news-eleven.com/headline/25119
 
 Bibliography  
 
