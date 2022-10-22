@@ -58,7 +58,8 @@ recommendations that may be considered to address the immediate concerns of the 
 
 > The [Wealth Effect](https://en.wikipedia.org/wiki/Wealth_effect) is a behavioral economic theory suggesting that people spend more as the value of their assets rise. [^10]
 
-> For example countries with well-developed financial sector and well-functioning money markets like the U.S., Germany and Japan pursue monetary policies which place more reliance in employing open market operations and changing of interest rates, whereas in countries where the financial sectors has not been well developed like in Myanmar, more reliance is placed in changing the reserve requirements of commercial banks. (Zaw, 2020)[^11]
+> For example countries with well-developed financial sector and well-functioning money markets like the U.S., Germany and Japan pursue monetary policies which place more reliance in employing open market operations and changing of interest rates, whereas in countries where the financial sectors has not been well developed like in Myanmar, more reliance is placed in changing the reserve requirements of commercial banks. (Zaw, 2020)[^11]  
+
 ### Glossary  ([ပညာကျော် - ကုန်သွယ်စီးပွားအဘိဓာန်](https://www.myanmarbookshop.com/MyanmarBooks/BookDetails/21850))
 
 1. macroeconomics (n) ကျယ်ပြန့်သော အမြင်ဖြင့် စီးပွားရေးဆိုင်ရာ လေ့လာမှု။ အကျယ်ကြည့် စီးပွားရေးပညာ။ မက်ခရို ဘောဂဗေဒ။ 
