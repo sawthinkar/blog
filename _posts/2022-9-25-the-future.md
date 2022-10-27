@@ -69,7 +69,7 @@ https://www.spinlaunch.com/orbital
 <h2>Finance</h2>  
 
 • Informal value transfer system  
-https://en.wikipedia.org/wiki/Informal_value_transfer_system  
+https://w.wiki/5sB3  
 _"An informal value transfer system (IVTS) is any system, mechanism, or network of people that receives money for the purpose of making the funds or an equivalent value payable to a third party in another geographic location, whether or not in the same form."_  
 - the host country and the receiving country have no diplomatic ties or the host country actively discourage the sending of money to the receiving country.
 - the constant change in the world political environments, unsatisfiable payment systems, and/or a rapid continuously changing financial sector;
@@ -106,11 +106,11 @@ https://en.wikipedia.org/wiki/SPFS
 _"SPFS (Russian: Система передачи финансовых сообщений (СПФС), romanized: Sistema peredachi finansovykh soobscheniy, lit. 'System for Transfer of Financial Messages') is a Russian equivalent of the SWIFT financial transfer system, developed by the Central Bank of Russia."_  
 
 • Structured Financial Messaging System (SFMS, India)  
-https://en.wikipedia.org/wiki/Structured_Financial_Messaging_System  
+https://w.wiki/5sB2  
 _"Structured Financial Messaging System (SFMS) is a secure messaging standard developed to serve as a platform for intra-bank and inter-bank applications. It is an Indian standard similar to SWIFT (Society for World-wide Interbank Financial Telecommunications) which is the international messaging system used for financial messaging globally."_  
 
 • Instrument in Support of Trade Exchanges (INSTEX, Europe)  
-https://en.wikipedia.org/wiki/Instrument_in_Support_of_Trade_Exchanges  
+https://w.wiki/5sA$  
 *"The Instrument in Support of Trade Exchanges (INSTEX) is a European special-purpose vehicle (SPV) established on 31 January 2019. Its mission is to facilitate non-USD and non-SWIFT transactions with Iran to avoid breaking U.S. sanctions."*  
 
 • Cross-Border Interbank Payment System (CIPS, China)  
