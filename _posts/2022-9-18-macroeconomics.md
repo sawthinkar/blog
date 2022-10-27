@@ -74,7 +74,7 @@ Acemoglu, Daron. Robinson, James A. Why Nations Fail (New York: Crown Publishing
 
 Footnotes:  
 
-[^1]: အဂ္ဂဗျူဟာ. (2021, October 5). Retrieved October 9, 2022, from https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%82%E1%80%B9%E1%80%82%E1%80%97%E1%80%BB%E1%80%B0%E1%80%9F%E1%80%AC  
+[^1]: အဂ္ဂဗျူဟာ. (2021, October 5). Retrieved October 9, 2022, from https://w.wiki/5sAz  
 
 [^2]: Daron Acemoglu, James A. Robinson, Why Nations Fail (New York: Crown Publishing Group, 2012): 74-75.  
 
