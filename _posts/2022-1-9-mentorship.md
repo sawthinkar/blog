@@ -58,7 +58,10 @@ noun
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Vomkriege.jpg" height="273"/>
 
 [The Man Versus The State](https://en.wikipedia.org/wiki/The_Man_Versus_the_State) (1884)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Man_Versus_The_State%2C_by_Herbert_Spencer.jpg" height="273"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Man_Versus_The_State%2C_by_Herbert_Spencer.jpg" height="273"/>  
+
+[နန္ဒီသေနပျို့](https://wikisource.org/wiki/Index:%E1%80%94%E1%80%94%E1%80%B9%E1%80%92%E1%80%AE%E1%80%9E%E1%80%B1%E1%80%94%E1%80%95%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B7.pdf) (1961)  
+<img src="https://upload.wikimedia.org/wikipedia/sources/thumb/a/a6/%E1%80%94%E1%80%94%E1%80%B9%E1%80%92%E1%80%AE%E1%80%9E%E1%80%B1%E1%80%94%E1%80%95%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B7.pdf/page1-920px-%E1%80%94%E1%80%94%E1%80%B9%E1%80%92%E1%80%AE%E1%80%9E%E1%80%B1%E1%80%94%E1%80%95%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B7.pdf.jpg" height="273" >
 
 [The Dictator's Handbook](https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook) (2011, September 1)  
 <img src="https://upload.wikimedia.org/wikipedia/en/f/fe/The_Dictator%27s_Handbook_cover.png" height="273"/> 
