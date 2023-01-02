@@ -4,25 +4,31 @@ title: The Future
 ---
 
 *[September 25, 2022] ထိက်တင်ဓံင့်, ဖၠုံထီ့ခါန်ႋ*  
-*Updated [October 22, 2022] ထ်ုအင်, ဖၠုံထီ့ခါန်ႋ*
+*Updated [January 2, 2023] ထ်ုအင်, ဖၠုံထီ့ခါန်ႋ*
 
 "Our imagination is the only limit to what we can hope to have in the future."  
 Charles F. Kettering, American Inventor (1876-1958)
 
 <h2>Energy</h2>  
 
-The Debate Over Small Nuclear Reactors  
+The Debate Over Small Nuclear Reactors (18 Sep 2022)  
 https://learningenglish.voanews.com/amp/the-debate-over-small-nuclear-reactors/6744569.html  
 
+US to help Thailand develop small nuclear reactors (19 Nov 2022)  
+https://www.bangkokpost.com/thailand/general/2441459/us-to-help-thailand-develop-small-nuclear-reactors  
+
+ROSATOM and the Republic of the Union of Myanmar signed the Мemorandum of understanding  (22 Nov 2022)
+https://www.rosatom.ru/en/press-centre/news/rosatom-and-the-republic-of-the-union-of-myanmar-signed-the-memorandum-of-understanding/  
+
 ***SMR Race***  
-Rolls-Royce Small Modular Reactors  (UK)  
+Rolls-Royce Small Modular Reactors (UK)  
 https://www.rolls-royce.com/innovation/small-modular-reactors.aspx#/  
 https://www.rolls-royce-smr.com/press/rolls-royce-smr-entering-regulatory-assessment-process  
 
-Rosatom State Atomiс Energy Corporation  (Russia)  
+Rosatom State Atomiс Energy Corporation (Russia)  
 https://www.rosatom.ru/en/index.html  
 
-NuScale Power  (US)  
+NuScale Power (US)  
 https://www.nuscalepower.com/  
 
 ***Problem***  
@@ -60,10 +66,13 @@ https://www.quora.com/profile/Richard-Muller-3
 SpaceX, Resuable Rockets  
 https://www.spacex.com  
 
+Stokespace, 100% Reusable Rockets  
+https://www.stokespace.com/  
+
 Relativity, 3D Printed Space Rockets  
 https://www.relativityspace.com/  
 
-SpinLaunch, Giant Slingshot Space Rocket Launcher    
+SpinLaunch, Giant Slingshot Space Rocket Launcher  
 https://www.spinlaunch.com/orbital  
 
 <h2>Finance</h2>  
