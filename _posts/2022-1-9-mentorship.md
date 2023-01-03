@@ -43,15 +43,17 @@ noun
 *"အာဏာကိုမစင်လိုရွံရှာပါ။"*  
 ~ ဆရာအောင်ဖေ၊ ၂၀၂၁ ခုနှစ်၊ ဖေဖော်ဝါရီလ  
 
+အာဏာတို့၏မတည်မြဲမှုကို ကြွေတစ်လက်၊ ကြက်တစ်ခုန်ပမာတင်စားခိုင်းနှိုင်းခဲ့သည်။ 
+
 **Book List**
 
-[The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) (5th century BCE)  
+[The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) (孫子兵法) (5th century BCE)  
 <img src="https://images-na.ssl-images-amazon.com/images/I/41yO95t41bL._SX331_BO1,204,203,200_.jpg" height="273"/>
 
-[Arthashastra](https://en.wikipedia.org/wiki/Arthashastra) (အရ်တ္ထသျှတ္တရ) (3rd century BCE)  
+[Arthashastra](https://en.wikipedia.org/wiki/Arthashastra) (अर्थशास्त्रम्)(အရ်တ္ထသျှတ္တရ) (3rd century BCE)  
 <img src="https://images-na.ssl-images-amazon.com/images/I/71zXJLFffPL.jpg" height="273">
 
-[The Prince](https://en.wikipedia.org/wiki/The_Prince) (1532)  
+[The Prince](https://en.wikipedia.org/wiki/The_Prince) (Il Principe)(ဂန္တဝင် ဦးသျှောင် မင်းသားလုပ်ထုံးကျမ်း) (1532)  
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Machiavelli_Principe_Cover_Page.jpg" height="273"/>
 
 [On War](https://en.wikipedia.org/wiki/On_War) (1832)  
@@ -69,7 +71,8 @@ noun
 [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) Politics (အဝိဟိံသာနိုင်ငံရေး) (2016, Nov)  
 <img src="https://s3.ap-southeast-1.amazonaws.com/cdn.sawthinkar/avihimsa-politics.jpg" height="273"/> 
 
-
+[The Network State](https://thenetworkstate.com/) (2022, July 4)  
+<img src="https://book.thenetworkstate.com/assets/cover-tns-small.png" height="273">
 
 **Podcast List** 
 
