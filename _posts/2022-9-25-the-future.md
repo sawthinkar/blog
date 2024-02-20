@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Future 
+title: The Future (လ်ုခါင့်လ်ုယာ့)
 ---
 
 *[September 25, 2022] ထိက်တင်ဓံင့်, ဖၠုံထီ့ခါန်ႋ*  
